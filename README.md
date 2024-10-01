@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @erhankeseli
-- 👀 I’m interested in ABAP, Home Networking, Cloud and 3D Printing
+- 👀 I’m interested in ABAP, Home Lab, Cloud and 3D Printing
 - 📫 X: @erhankeseli
 
